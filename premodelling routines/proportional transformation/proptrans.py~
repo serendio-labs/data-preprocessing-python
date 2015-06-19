@@ -1,0 +1,17 @@
+def proptrans(str,list):
+
+        w= pd.read_csv(str,usecols=list)
+
+
+        f= DataFrame(w)
+        c=f.astype(float)
+
+
+        x=c.as_matrix()
+
+
+
+        t=np.arcsin(x**0.5)
+
+        print t
+
