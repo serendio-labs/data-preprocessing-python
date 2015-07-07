@@ -33,6 +33,5 @@ Not having the correct and complete data is often the most cited reason for anal
 
 ## Getting started
 
-Download or pull the data-preprocessing package into the appropriate location, then refer to each of the above links
-to work with the respective utility.
+Download or pull the data-preprocessing package  https://github.com/serendio-labs/data-preprocessing-python.git into the appropriate location, then refer to each of the above links to work with the respective utility.
 
