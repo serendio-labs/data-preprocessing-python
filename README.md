@@ -13,23 +13,23 @@ Not having the correct and complete data is often the most cited reason for anal
 
 ### The different capabilities offered by our Data-Presprocessing package is given below :  
 
-[Standardization](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Standardization) - Standardize the raw feature vectors from the training data.
+[Standardization](https://github.com/serendio-labs/data-preprocessing-python/wiki/Standardization) - Standardize the raw feature vectors from the training data.
 
-[Deviations](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Deviations) - Calculate the deviation of a particular value from the average.
+[Deviations](https://github.com/serendio-labs/data-preprocessing-python/wiki/Deviations) - Calculate the deviation of a particular value from the average.
 
-[Indicator Variables](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Create-Dummy-Variable) - Create Indicator variables representing the training data.
+[Indicator Variables](https://github.com/serendio-labs/data-preprocessing-python/wiki/Create-Dummy-Variable) - Create Indicator variables representing the training data.
 
-[Skewness](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Skewness) - Compute the skewness of a sample within a training set.
+[Skewness](https://github.com/serendio-labs/data-preprocessing-python/wiki/Skewness) - Compute the skewness of a sample within a training set.
 
-[Kurtosis](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Kurtosis) - Compute the kurtosis of a sample within a training set.
+[Kurtosis](https://github.com/serendio-labs/data-preprocessing-python/wiki/Kurtosis) - Compute the kurtosis of a sample within a training set.
 
-[Box-cox Transformation](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Box-Cox-Transformation) - Transform the training vectors using Box-cox.
+[Box-cox Transformation](https://github.com/serendio-labs/data-preprocessing-python/wiki/Box-Cox-Transformation) - Transform the training vectors using Box-cox.
 
-[Poisson Transformation](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Poisson-Transformation) - Transform the training vectors using Poisson.
+[Poisson Transformation](https://github.com/serendio-labs/data-preprocessing-python/wiki/Poisson-Transformation) - Transform the training vectors using Poihttps://github.com/serendio-labs/data-preprocessing-python/wiki/Box-Cox-Transformationsson.
 
-[Proportional Transformation](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Proportional-Transformation) - Transform the training vectors with Proportional transformation.
+[Proportional Transformation](https://github.com/serendio-labs/data-preprocessing-python/wiki/Proportional-Transformation) - Transform the training vectors with Proportional transformation.
 
-[Graphical Summary](https://github.com/serendio-labs-stage/data-preprocessing/wiki/Graphical-summary) - Get a pictorial representation of the training data.
+[Graphical Summary](https://github.com/serendio-labs/data-preprocessing-python/wiki/Graphical-summary) - Get a pictorial representation of the training data.
 
 ## Getting started
 
