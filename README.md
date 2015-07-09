@@ -1,17 +1,13 @@
-# Data-Preprocessing
+# Data Preprocessing
 
 Data pre-processing is an important step in the data mining process. The phrase "garbage in, garbage out" is particularly applicable to data mining and machine learning projects. Data-gathering methods are often loosely controlled, resulting in out-of-range values, impossible data combinations (e.g., Sex: Male, Pregnant: Yes), missing values. Analyzing data that has not been carefully screened for such problems can produce misleading results. Thus, the representation and quality of data is first and foremost before running an analysis.
 
 If there is much irrelevant and redundant information present or noisy and unreliable data, then knowledge discovery during the training phase is more difficult. Data preparation and filtering steps can take considerable amount of processing time. Data pre-processing includes cleaning, normalization, transformation, feature extraction and selection. The product of data pre-processing is the final training set.
 
-The data-preprocessing routines involve standardization(stndze),graphical summary(gs),skewness,kurtosis,creating dummy variables,box cox transformation,etc.
+The data-preprocessing routines involve standardization (stndze), graphical summary(gs), skewness,kurtosis,creating dummy variables,box cox transformation,etc.
 
 
-## Feature Selection
-
-Not having the correct and complete data is often the most cited reason for analytics project failures, regardless of Big or Small data. To mitigate the problem, data-driven companies are giving importance to preparing and curating the data, and make it ready for analysis. It is a well-established fact that typically 60-70% of time in any analytics project is spent on data capture and preparation, and hence robust data management tools are important to drive efficiency and time savings. In a Predictive Modeling environment, data preparation is closely associated with the Pre-modeling phase. 
-
-### The different capabilities offered by our Data-Presprocessing package is given below :  
+### Key Highlights 
 
 [Standardization](https://github.com/serendio-labs/data-preprocessing-python/wiki/Standardization) - Standardize the raw feature vectors from the training data.
 
