@@ -4,7 +4,7 @@ Data pre-processing is an important step in the data mining process. The phrase 
 
 If there is much irrelevant and redundant information present or noisy and unreliable data, then knowledge discovery during the training phase is more difficult. Data preparation and filtering steps can take considerable amount of processing time. Data pre-processing includes cleaning, normalization, transformation, feature extraction and selection. The product of data pre-processing is the final training set.
 
-The data-preprocessing routines involve standardization (stndze), graphical summary(gs), skewness,kurtosis, creating dummy variables, box cox transformation etc.
+The data-preprocessing routines involve standardization (stndze), graphical summary(gs), skewness, kurtosis, creating dummy variables, box cox transformation etc.
 
 
 ### Key Highlights 
